@@ -24,6 +24,11 @@ nav ul {
 nav li {
     display: inline-block;
     margin: 0 10px;
+    transition: 1s;
+}
+
+li:hover{
+  font-size: larger;
 }
 
 nav a {
